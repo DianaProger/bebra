@@ -107,7 +107,9 @@ strong {
 font-size: 30px;
   color: #15678d;
 }
-
+.navbar-toggler {
+    margin-left: auto;
+}
 ol {
     list-style: decimal; 
   padding-left: 40px;  
@@ -169,3 +171,4 @@ ol {
 table td {
   font-size: 19px; 
 }
+
